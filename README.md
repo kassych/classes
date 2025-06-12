@@ -1,7 +1,7 @@
 # Courses on Cybersecurity
 
 
-Dive into the dynamic world of cybersecurity  with these comprehensive, hands-on courses inspired by real-world insights from industry experts. Designed for all aspiring cybersecurity professionals, this program equips you with the skills to identify and counter sophisticated threats using advanced data sources and techniques.
+Hi Hackers, Dive into the dynamic world of cybersecurity  with these comprehensive, hands-on courses inspired by real-world insights from industry experts. Designed for all aspiring cybersecurity professionals, this program equips you with the skills to identify and counter sophisticated threats using advanced data sources and techniques.
 
 ## Who should enroll ?
 - Students new to cybersecurity seeking a strong foundation.
