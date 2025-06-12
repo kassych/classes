@@ -41,7 +41,7 @@ Techniques (e.g., process injection) are distinct from tools (e.g., specific mal
 **Resources**  
 Microsoft Digital Defense Report 2024  
 
-[https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2024](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2024)
+[https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report-2024](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024)
 
 **Focus**: *Chapter 1 on telemetry diversity.*  
 MITRE ATT\&CK: Overview  
@@ -77,7 +77,7 @@ Microsoft Learn: Event Tracing \- Getting Started
 [*https://learn.microsoft.com/en-us/windows/win32/etw/event-tracing-portal*](https://learn.microsoft.com/en-us/windows/win32/etw/event-tracing-portal)
 
 Elastic Security Labs: Kernel ETW is the Best ETW    
-[*https://www.elastic.co/security-labs/kernel-etw-is-the-best-etw*](https://www.elastic.co/security-labs/kernel-etw-is-the-best-etw)
+[*https://www.elastic.co/security-labs/kernel-etw-is-the-best-etw*](https://www.elastic.co/security-labs/kernel-etw-best-etw)
 
 ### **Exercise 2.1:** Set Up an ETW Trace
 
@@ -116,10 +116,10 @@ Requires careful analysis to distinguish malicious entries.
 
 **Resources**  
 **Splunk: From Registry With Love \- Malware Registry Abuses**    
-[https://www.splunk.com/en\_us/blog/learn/from-registry-with-love-malware-registry-abuses.html](https://www.splunk.com/en_us/blog/learn/from-registry-with-love-malware-registry-abuses.html)
+[https://www.splunk.com/en\_us/blog/learn/from-registry-with-love-malware-registry-abuses.html](https://www.splunk.com/en_us/blog/security/from-registry-with-love-malware-registry-abuses.html)
 
 **Microsoft: Windows Registry Security Guide**    
-[https://learn.microsoft.com/en-us/windows/security/identity-protection/credentials-protection-and-management/registry-security](https://learn.microsoft.com/en-us/windows/security/identity-protection/credentials-protection-and-management/registry-security)
+[https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/)
 
 ### **Exercise 3.1:** Inspect Registry for Persistence
 
@@ -152,7 +152,7 @@ Detection requires cross-referencing with ETW or network logs.
 
 **Medium**: Command Line Spoofing by S12-H4CK  
 
-[https://medium.com/@s12\_h4ck/command-line-spoofing-welcome-to-my-new-article-today-i-will-5b8e9d7f9a2c](https://medium.com/@s12_h4ck/command-line-spoofing-welcome-to-my-new-article-today-i-will-5b8e9d7f9a2c)
+[https://medium.com/@s12deff/command-line-spoofing-64ea1ef3f536](https://medium.com/@s12deff/command-line-spoofing-64ea1ef3f536)
 
 **MITRE ATT\&CK: T1036.005**    
 [https://attack.mitre.org/techniques/T1036/005/](https://attack.mitre.org/techniques/T1036/005/)
@@ -189,8 +189,8 @@ Develop baselines to filter noise (e.g., known ETW providers).
 Align with industry best practices (e.g., SANS methodologies).
 
 **Resources**  
-**SANS Institute**: *Advanced Incident Detection and Response*    
-[https://www.sans.org/white-papers/39286/](https://www.sans.org/white-papers/39286/)
+**SANS Institute**: *Advanced Incident Detection and Response Survey* ( Requires Registration)    
+[https://www.sans.org/white-papers/sans-2024-detection-response-survey/](https://www.sans.org/white-papers/sans-2024-detection-response-survey/)
 
 **PowerShell Gallery**: *ETW Scripts*    
 [https://www.powershellgallery.com/packages?q=ETW](https://www.powershellgallery.com/packages?q=ETW)
@@ -230,8 +230,8 @@ Duration: 1-2 weeks
 **Additional Tips**  
 Join cybersecurity forums (e.g., Reddit’s r/netsec) for peer support.
 
-**Explore the SANS FOR508 course**   
-[https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-for508/](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-for508/)  
+**Explore the SANS FOR508 course Material**   
+[https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/)  
  for advanced labs (free previews available).
 
 **NOTE**:  
