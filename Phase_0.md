@@ -1,5 +1,5 @@
 
-# 🚀 Cybersecurity Grandmaster Bootcamp
+# 🚀 0xPh4z3d0ut Cyber Security Bootcamp
 
 **Phase 0: LAB SETUP – "The War Room"**  
 Welcome to your first step in becoming a cybersecurity grandmaster. This phase sets up your cyber lab environment.
